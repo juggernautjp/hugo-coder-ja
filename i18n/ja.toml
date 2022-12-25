@@ -28,37 +28,37 @@ other = "ページが見つかりません"
 other = "申し訳ございません。アクセスしようとしたページが見つかりませんでした。"
 
 [head_back]
-other = "<a href=\"{{ . }}\">トップページ</a>からお探しいただきますようお願い申し上げます。"
+other = "<a href=\"{{ . }}\">トップページ</a>から探してください。"
 
 [licensed_under]
 other = "Licensed under"
 
 [powered_by]
-other = "利用技術"
+other = "Powered by"
 
 [see_also]
-other = "関連記事："
+other = "関連記事: "
 
 [note]
-other = "note"
+other = "注意"
 
 [tip]
-other = "tip"
+other = "ヒント"
 
 [example]
-other = "example"
+other = "例"
 
 [question]
-other = "question"
+other = "質問"
 
 [info]
-other = "info"
+other = "情報"
 
 [warning]
-other = "warning"
+other = "警告"
 
 [error]
-other = "error"
+other = "エラー"
 
 [link_to_heading]
-other = "Link to heading"
+other = "見出しへのリンク"
