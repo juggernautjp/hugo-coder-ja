@@ -1,3 +1,4 @@
-module github.com/luizdepra/hugo-coder
+module github.com/juggernautjp/hugo-coder-ja
 
 go 1.16
+
